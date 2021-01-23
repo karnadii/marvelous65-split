@@ -1,17 +1,10 @@
 
 .DS_Store
-PCB/Marvelous65 Split-B_Cu.gbr
-PCB/Marvelous65 Split-B_Mask.gbr
-PCB/Marvelous65 Split-B_Paste.gbr
-PCB/Marvelous65 Split-B_SilkS.gbr
-PCB/Marvelous65 Split-Edge_Cuts.gbr
-PCB/Marvelous65 Split-F_Cu.gbr
-PCB/Marvelous65 Split-F_Mask.gbr
-PCB/Marvelous65 Split-F_Paste.gbr
-PCB/Marvelous65 Split-F_SilkS.gbr
-PCB/Marvelous65 Split-job.gbrjob
-PCB/Marvelous65 Split.drl
-PCB/Marvelous65 Split.pdf
-PCB/Marvelous65 Split-job.gbrjob
-PCB/Marvelous65-split-gerber.zip
+*.gbr
+*.gbrjob
+
+
 *.svg
+
+*.kicad_pcb-bak
+*.kicad_pcb-bak
