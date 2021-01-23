@@ -42,14 +42,4 @@
   (pad "" np_thru_hole circle (at -11.938 6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 11.938 -8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -11.938 -8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/MX_Only.3dshapes/MXOnly-1U-Hotswap.stp
-    (at (xyz -0.02 0.15 -0.14))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
-  )
-   (model /Users/karnadi/Downloads/cherry-mx-stabilizer-mx-1.snapshot.5/Stabilizer-open.STEP
-    (at (xyz 0.47 0 0.13))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -180))
-  )
 )
