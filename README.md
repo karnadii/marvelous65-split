@@ -19,7 +19,7 @@ For promicro you can use QMK and ZMK for wireless
 I plan to design an integrated case, so the plate is also 3d printed
 
 ## PCB [untested]
-~~I design the PCB like this to save $4 engineering fee from JLPCB~~ maybe JLCPCB will count it as different design. I am too lazy to arange the trace. so the trace is not that good looking.
+Already ordering from JLPCB and still in production, JLCPCB will consider this as two different design, so you have to select 2 in different design. the cost for 5 pcbs is $22.90 excluding shipping. I am too lazy to arange the trace. so the trace is not that good looking.
 ![](Images/Marvelous65%20Split%20Front.png)
 ![](Images/Marvelous65%20Split%20Back.png)
 
