@@ -16,10 +16,11 @@ try it at [KLE](http://www.keyboard-layout-editor.com/##@_name=marvelous65%20spl
 For promicro you can use QMK and ZMK for wireless
 
 ## Case
-I plan to design an integrated case, so the plate is also 3d printed
+![](Images/case.png)
+![](Images/case2.png)
+![](Images/case3.png)
 
 ## PCB [untested]
-Already ordering from JLPCB and still in production, JLCPCB will consider this as two different design, so you have to select 2 in different design. the cost for 5 pcbs is $22.90 excluding shipping. I am too lazy to arange the trace. so the trace is not that good looking.
 ![](Images/Marvelous65%20Split%20Front.png)
 ![](Images/Marvelous65%20Split%20Back.png)
 
