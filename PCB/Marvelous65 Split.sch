@@ -1320,7 +1320,7 @@ F 3 "" H 9350 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:USB_C_Receptacle_USB2.0 J1
+L Marvelous65-Split-rescue:USB_C_Receptacle_USB2.0-Connector J1
 U 1 1 5FF5FD4B
 P 1050 4650
 F 0 "J1" H 1157 5517 50  0000 C CNN
@@ -1331,7 +1331,7 @@ F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1200 46
 	1    0    0    -1  
 $EndComp
 $Comp
-L Power_Protection:USBLC6-2SC6 U2
+L Marvelous65-Split-rescue:USBLC6-2SC6-Power_Protection U2
 U 1 1 5FF63170
 P 2850 6600
 F 0 "U2" H 2850 7281 50  0000 C CNN
@@ -2225,7 +2225,7 @@ Wire Wire Line
 	21750 1500 21950 1500
 Connection ~ 21500 1700
 $Comp
-L Connector:USB_C_Receptacle_USB2.0 J5
+L Marvelous65-Split-rescue:USB_C_Receptacle_USB2.0-Connector J5
 U 1 1 6083EABF
 P 12950 4000
 F 0 "J5" H 13057 4867 50  0000 C CNN
@@ -2647,7 +2647,7 @@ F 3 "" H 20100 4950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Power_Protection:USBLC6-2SC6 U4
+L Marvelous65-Split-rescue:USBLC6-2SC6-Power_Protection U4
 U 1 1 6087EFA5
 P 15100 3950
 F 0 "U4" H 15100 4631 50  0000 C CNN
