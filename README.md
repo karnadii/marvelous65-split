@@ -21,7 +21,7 @@ For promicro you can use QMK and ZMK for wireless
 ![](Images/case2.png)
 ![](Images/case3.png)
 
-## PCB [untested]
+## PCB
 ![](Images/Marvelous65%20Split%20Front.png)
 ![](Images/Marvelous65%20Split%20Back.png)
 
