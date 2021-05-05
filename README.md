@@ -1,4 +1,5 @@
 # Marvelous65 Split
+ALL THE FILES MOVED TO https://github.com/karnadii/marvelous65
 ![](https://cdn.discordapp.com/attachments/406032987243806721/809588674832498698/IMG_20210212_074515.jpg)
 A split version of my marvelous65 keyboard. powered by pro micro or any compatible footprint like nice!nano and nrfmicro. This keyboard is wireless ready, I have added JST-XH connection for battery and an on off switch for the battery connection. It have encoder and oled on both side. also I have added underglow footprint if you want to add underglow in your keyboard. 
 
